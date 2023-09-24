@@ -2,13 +2,13 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Contact</span> Me",
-            "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+            "description": "You can reach out to me through the following options::",
             "subtitle": "Or...",
             "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
         },
         "pt": {
             "title": "<span class='text-primary'>Contato</span>",
-            "description": "Por favor, não hesite em entrar em contato comigo sempre que sentir necessidade!",
+            "description": "Pode entrar em contato com meu amigo através das seguintes opções:",
             "subtitle": "ou...",
             "subtitleDescription": "Se você preferir, você pode entrar em contato com meu amigo através das seguintes opções:"
         }
