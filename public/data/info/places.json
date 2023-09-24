@@ -1,0 +1,97 @@
+{
+    "estacio": {
+        "logoUrl": "images/places/estacio.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "estacio"},
+            "en": {"name": "estacio"}
+        }
+    },
+
+    "pucminas": {
+        "logoUrl": "images/places/pucminas.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "pt": {"name": "pucminas"},
+            "en": {"name": "pucminas"}
+        }
+    },
+    
+    "me": {
+        "logoUrl": "images/places/me.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Mercado Eletrônico"},
+            "en": {"name": "ME"}
+        }
+    },
+    
+    "wipro": {
+        "logoUrl": "images/places/wipro.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Wipro"},
+            "en": {"name": "Wipro"}
+        }
+    },
+    
+    "alterdata": {
+        "logoUrl": "images/places/alterdata.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Alterdata"},
+            "en": {"name": "Alterdata"}
+        }
+    },
+        
+    "mercatto": {
+        "logoUrl": "images/places/mercatto.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Mercatto"},
+            "en": {"name": "Mercatto"}
+        }
+    },
+    
+    "bureauveritas": {
+        "logoUrl": "images/places/bureauveritas.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Bureau Veritas"},
+            "en": {"name": "Bureau Veritas"}
+        }
+    },
+    
+    "certiprof": {
+        "logoUrl": "images/places/certiprof.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Certiprof"},
+            "en": {"name": "Certiprof"}
+        }
+    },
+    "desenvolvedorio": {
+        "logoUrl": null,
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "desenvolvedor.io"},
+            "en": {"name": "desenvolvedor.io"}
+        }
+    },
+    "infnet": {
+        "logoUrl": null,
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Infnet"},
+            "en": {"name": "Infnet"}
+        }
+    },
+    "alura": {
+        "logoUrl": null,
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "alura"},
+            "en": {"name": "alura"}
+        }
+    }
+}

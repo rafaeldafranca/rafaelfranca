@@ -1,0 +1,90 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Experiência</span> Profissional",
+            "description": "Sobre minha jornada profissional"
+        },
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "About my professional journey"
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.me}",
+            "period": ["2020/10", "2023/09"],
+            "locales": {
+                "pt": {
+                    "title": "Analista de sistemas senior",
+                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                },
+                "en": {
+                    "title": "Senior systems analyst",
+                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                }
+            }
+        },
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.wipro}",
+            "period": ["2018/08", "2020/09"],
+            "locales": {
+                "pt": {
+                    "title": "Analista de sistemas senior",
+                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                },
+                "en": {
+                    "title": "Senior systems analyst",
+                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                }
+            }
+        },
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.alterdata}",
+            "period": ["2017/03", "2018/08"],
+            "locales": {
+                "pt": {
+                    "title": "Programador .net Back-end",
+                    "description": "API C#, vb.net"
+                },
+                "en": {
+                    "title": ".NET Back-end Programmer",
+                    "description": "API C#, vb.net"
+                }
+            }
+        },
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.mercatto}",
+            "period": ["2017/03", "2018/08"],
+            "locales": {
+                "pt": {
+                    "title": "Analista de sistemas",
+                    "description": "Webforms fullstack"
+                },
+                "en": {
+                    "title": "Systems Analyst",
+                    "description": "Webforms fullstack"
+                }
+            }
+        },
+        {
+            "id": "experience_item_5",
+            "place": "@link{places.bureauveritas}",
+            "period": ["2006/06", "2009/07"],
+            "locales": {
+                "pt": {
+                    "title": "Consultor da ASJBWM alocado no cliente Bureau Veritas.",
+                    "description": "Desenvolvimento em VB.NET com Sql Server / Access / XML"
+                },
+                "en": {
+                    "title": "ASJBWM consultant allocated to the client Bureau Veritas.",
+                    "description": "Development in VB.NET with Sql Server / Access / XML"
+                }
+            }
+        }
+    ]
+}

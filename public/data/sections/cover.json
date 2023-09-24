@@ -1,0 +1,29 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Hello <span class='text-primary'>World!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "Developer for over 15 years in the market and always chasing knowledge. <br />I worked for consultancies and in medium and large companies, creating solutions on the .net platform"
+        },
+
+        "pt": {
+            "welcome": "Olá <span class='text-primary'>Mundo!</span>",
+            "welcomeShort": "Bem-vindo!",
+            "bio": "Desenvolvedor há mais de 15 anos no mercado e sempre correndo atrás de conhecimento. <br />Trabalhei para consultorias e em empresas de média e grande porte, criando soluções na plataforma .netes encantadoras e innovadoras. Colaboremos juntos para crear algo extraordinario."
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}"
+        ]
+    }
+}

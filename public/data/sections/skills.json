@@ -1,0 +1,210 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Skills</span>",
+            "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:"
+        },
+        "en": {
+            "title": "<span class='text-primary'>Skills</span>",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "pt": {"title": "Programação"},
+                "en": {"title": "Programming"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "pt": {"title": "Idiomas"},
+                "en": {"title": "Languages"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "pt": {"title": "Habilidades adicionais"},
+                "en": {"title": "Bonus Skills"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Trabalho em equipe",
+                        "description": "Gosto de trabalhar em grupo sempre apoiando o time."
+                    },
+                    "en": {
+                        "title": "Team work",
+                        "description": "I like working in a group, always supporting the team."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-eye",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Focado",
+                        "description": "Capacidade de concentrar a minha atenção, energia e esforços na tarefa."
+                    },
+                    "en": {
+                        "title": "Focus",
+                        "description": "Ability to focus my attention, energy and efforts on the task."
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "far fa-keyboard",
+                "value": 100,
+                "locales": {
+                    "pt": {"title": "C# ( Asp.NET, MVC, .NET Core)", "description": "Experiência: 15 anos"},
+                    "en": {"title": "C# ( Asp.NET, MVC, .NET Core)", "description": "Experience Time: 15 years"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "far fa-keyboard",
+                "value": 100,
+                "locales": {
+                    "pt": {"title": "VB (Asp.NET, webforms, MVC, .NET Core)", "description": "Experiência: 15 anos"},
+                    "en": {"title": "VB (Asp.NET, webforms, MVC, .NET Core)", "description": "Experience Time: 15 years"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "far fa-keyboard",
+                "value": 100,
+                "locales": {
+                    "pt": {"title": "Asp", "description": "Experiência: 20 anos"},
+                    "en": {"title": "Asp", "description": "Experience Time: 20 years"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 70,
+                "locales": {
+                    "pt": {"title": "HTML 5", "description": "Experiência: 10 anos"},
+                    "en": {"title": "HTML 5", "description": "Experience Time: 10 years"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 40,
+                "locales": {
+                    "pt": {"title": "CSS 3", "description": "Experiência: 5 anos"},
+                    "en": {"title": "CSS 3", "description": "Experience Time: 5 years"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 20,
+                "locales": {
+                    "pt": {"title": "Sass/Less", "description": "Experiência: 1 ano"},
+                    "en": {"title": "Sass/Less", "description": "Experience Time: 1 year"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "pt": {"title": "Javascript", "description": "Experiência: 20 anos"},
+                    "en": {"title": "Javascript", "description": "Experience Time: 20 years"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 60,
+                "locales": {
+                    "pt": {"title": "Vue 3", "description": "Experiência: 1 anos"},
+                    "en": {"title": "Vue 3", "description": "Experience: 1 years"}
+
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 60,
+                "locales": {
+                    "pt": {"title": "Angular", "description": "Experiência: 2 anos"},
+                    "en": {"title": "Angular", "description": "Experience: 2 years"}
+
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 60,
+                "locales": {
+                    "pt": {"title": "Inglês", "description": "Intermediário na língua inglesa; consegue manter conversas e compreender textos escritos."},
+                    "en": {"title": "English", "description": "Intermediate in English language; can hold conversations and understand written text."}
+
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Desenvolvimento Front-End", "description": "Capaz de codificar em Vue3, Angular e TypeScript."},
+                    "en": {"title": "Front-End Development", "description": "Able to code in Vue3, Angular and TypeScript."}
+
+                }
+            }
+        ]
+
+    }
+}

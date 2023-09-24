@@ -1,0 +1,240 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Conquistas</span> de carreira",
+            "description": "Meus cursos e certificações:"
+        },
+        "en": {
+            "title": "Career <span class='text-primary'>Achievements</span>",
+            "description": "My courses and certifications:"
+        }
+    },
+    "subcategories": [
+        {
+            "id": "awards",
+            "faIcon": "fa-solid fa-trophy",
+            "locales": {
+                "pt": {
+                    "title": "Cursos",
+                    "buttonLabel": "Mais informações"
+                },
+                "en": {
+                    "title": "Curses",
+                    "buttonLabel": "More Info"
+                }
+            }
+        },
+        {
+            "id": "certifications",
+            "faIcon": "fa-solid fa-award",
+            "locales": {
+                "pt": {
+                    "title": "Certificações",
+                    "buttonLabel": "Ver certificações"
+                },
+                "en": {
+                    "title": "Certifications",
+                    "buttonLabel": "View Certification"
+                }
+            }
+        }
+    ],
+    "items": {
+        "awards": [
+            {
+                "id": "desenvolvedorio_angular",
+                "place": "@link{places.desenvolvedorio}",
+                "date": "2022/08",
+                "href": "https://desenvolvedor.io/certificado/91725103-f32f-40c8-bb06-3fa3d19aab9e",
+                "locales": {
+                    "pt": {
+                        "title": "Front-End Angular Expert",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "Front-End Angular Expert",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "desenvolvedorio_mvc5",
+                "place": "@link{places.desenvolvedorio}",
+                "date": "2022/02",
+                "href": "https://desenvolvedor.io/certificado/5d2c45a7-7de4-488b-bdf9-587a55e6cd12",
+                "locales": {
+                    "pt": {
+                        "title": "Dominando o ASP.NET MVC 5",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "Mastering ASP.NET MVC 5",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "infnet_uml",
+                "place": "@link{places.infnet}",
+                "date": "2022/02",
+                "href": null,
+                "locales": {
+                    "pt": {
+                        "title": "Projeto de sistemas e orientação a objetos com UML",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "Systems design and object orientation with UML",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "infnet_4994A",
+                "place": "@link{places.infnet}",
+                "date": "2010/02",
+                "href": null,
+                "locales": {
+                    "pt": {
+                        "title": "4994A - Introduction to programming MS.NET Framework Applications with MS Visual Studio 2005",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "4994A - Introduction to programming MS.NET Framework Applications with MS Visual Studio 2005",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "infnet_2956B",
+                "place": "@link{places.infnet}",
+                "date": "2010/02",
+                "href": null,
+                "locales": {
+                    "pt": {
+                        "title": "2956B - Core Foundations of Microsoft.NET 2.0 Development",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "2956B - Core Foundations of Microsoft.NET 2.0 Development",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "infnet_2310C",
+                "place": "@link{places.infnet}",
+                "date": "2010/02",
+                "href": null,
+                "locales": {
+                    "pt": {
+                        "title": "2310C - Developing Web Applications Using Microsoft Visual Studio 2008",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "2310C - Developing Web Applications Using Microsoft Visual Studio 2008",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "alura_vuejs",
+                "place": "@link{places.alura}",
+                "date": "2023/05",
+                "href": "https://cursos.alura.com.br/degree/certificate/790633f7-c8b5-4cf2-8887-71450646d2b1?lang=pt_BR",
+                "locales": {
+                    "pt": {
+                        "title": "Ouse com o Framework Vue.js 3",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "Dare with the Vue.js 3 Framework",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "alura_vuejs",
+                "place": "@link{places.alura}",
+                "date": "2023/05",
+                "href": "https://cursos.alura.com.br/degree/certificate/52bc704d-1657-463b-b697-ab4c942f31b6?lang=pt_BR",
+                "locales": {
+                    "pt": {
+                        "title": "Melhore sua experiência de desenvolvimento com TypeScript",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "Improve your development experience with TypeScript",
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "id": "alura_vuejs",
+                "place": "@link{places.alura}",
+                "date": "2023/05",
+                "href": "https://cursos.alura.com.br/degree/certificate/2c147618-f3fd-41c6-be24-2268a8677aeb?lang=pt_BR",
+                "locales": {
+                    "pt": {
+                        "title": "CSS: aprofunde em estilos",
+                        "description": ""
+                    },
+                    "en": {
+                        "title": "CSS: delve deeper into styles",
+                        "description": ""
+                    }
+                }
+            }
+        ],
+        "certifications": [
+            {
+                "id": "Kanban_cert",
+                "place": "@link{places.certiprof}",
+                "date": "2020/09",
+                "href": "https://www.credly.com/badges/a9c3335f-566f-4f38-8b3d-3f77ade0bb38",
+                "locales": {
+                    "pt": {
+                        "title": "Kanban Foundation (KIKF)",
+                        "description": "Código da credencial 16e86659-f605-432b-8335-a9ff69284952"
+                    },
+                    "en": {
+                        "title": "Kanban Foundation (KIKF)",
+                        "description": "Credencial code 16e86659-f605-432b-8335-a9ff69284952"
+                    }
+                }
+            },
+            {
+                "id": "DEPC_cert",
+                "place": "@link{places.certiprof}",
+                "date": "2020/06",
+                "href": "https://www.credly.com/badges/a9c3335f-566f-4f38-8b3d-3f77ade0bb38",
+                "locales": {
+                    "pt": {
+                        "title": "Scrum Foundation Professional Certificate - (Portuguese)",
+                        "description": "Expira em ago de 2022"
+                    },
+                    "en": {
+                        "title": "Scrum Foundation Professional Certificate - (Portuguese)",
+                        "description": "Expires ago 2022"
+                    }
+                }
+            },
+            {
+                "id": "DEPC_cert",
+                "place": "@link{places.certiprof}",
+                "date": "2020/07",
+                "href": "https://certiprof.com/",
+                "locales": {
+                    "pt": {
+                        "title": "DevOps Essentials Professional Certificate Certificate (DEPC)",
+                        "description": "Código da credencial 42631412 (expira em jul de 2022)"
+                    },
+                    "en": {
+                        "title": "DevOps Essentials Professional Certificate Certificate (DEPC)",
+                        "description": "Credential code 42631412 (expires Jul 2022)"
+                    }
+                }
+            }
+        ]
+    }
+}

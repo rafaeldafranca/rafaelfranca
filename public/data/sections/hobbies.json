@@ -1,0 +1,153 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Hobbies</span> & Interesses",
+            "description": "É basicamente assim que passo meu tempo livre:"
+        },
+        "en": {
+            "title": "<span class='text-primary'>Hobbies</span> & Interests",
+            "description": "This is pretty much how I spend my free time:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "activities",
+            "type": "pie",
+            "progress": "number",
+            "faIcon": "fa-solid fa-clock",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "interests",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa fa-book-open-reader",
+            "locales": {
+                "pt": {"title": "Interesses"},
+                "en": {"title": "Interests"}
+            }
+        }
+    ],
+
+    "items": {
+        "activities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": 16,
+                "locales": {
+                    "pt": {"title": "Família e amigos", "description": "Tempo gasto com entes queridos, criando memórias para toda a vida."},
+                    "en": {"title": "Family & friends", "description": "Time spent with cherished loved ones, creating lifelong memories."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-tasks",
+                "value": 33,
+                "locales": {
+                    "pt": {"title": "Meus Projetos", "description": "Prosseguindo meus esforços criativos, transformando ideias em realidade."},
+                    "en": {"title": "My Projects", "description": "Pursuing my creative endeavors, transforming ideas into reality."}
+
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-couch",
+                "value": 22,
+                "locales": {
+                    "pt": {"title": "Relaxando", "description": "Entregando-se à tranquilidade, aliviando o estresse da vida."},
+                    "en": {"title": "Relaxing", "description": "Indulging in tranquility, unwinding the stresses of life."}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-book",
+                "value": 14,
+                "locales": {
+                    "pt": {"title": "Estudo", "description": "Embarcando em uma jornada contínua de aprendizado e autoaperfeiçoamento."},
+                    "en": {"title": "Studying", "description": "Embarking on a continuous journey of learning and self-improvement."}
+                    
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-dumbbell",
+                "value": 8,
+                "locales": {
+                    "pt": {"title": "Exercícios", "description": "Dedicar tempo ao bem-estar físico, nutrindo um estilo de vida saudável."},
+                    "en": {"title": "Exercise", "description": "Dedicating time to physical well-being, nurturing a healthy lifestyle."}
+
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-map",
+                "value": 8,
+                "locales": {
+                    "pt": {"title": "Explorando", "description": "Aventurando-se em novos reinos, buscando a emoção de descobertas desconhecidas."},
+                    "en": {"title": "Exploring", "description": "Venturing into new realms, seeking the thrill of uncharted discoveries."}
+                }
+            }
+        ],
+
+        "interests": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code",
+                "value": null,
+                "locales": {
+                    "pt": {
+                        "title": "Desenvolvimento Back-End",
+                        "description": "Hábil em tornar a tecnologia mais rápida com segurança, aumentando a satisfação do usuário."
+                    },
+                    "en": {
+                        "title": "Back-End development",
+                        "description": "Skilled in making technology faster safely, increasing user satisfaction."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-brush",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Desenvolvimento Front-End", "description": "Aprender um pouco de tudo para dar uma boa experiência para o usuário."},
+                    "en": {"title": "Front-End Development", "description": "Learn a little bit of everything to provide a good user experience."}
+
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-music",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Músicas", "description": "Gosto de tudo um pouco, sem preferência musical."},
+                    "en": {"title": "Music", "description": "I like a little bit of everything, no musical preference."}
+
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-gamepad",
+                "value": null,
+                "locales": {
+                    "pt": {"title": "Videogames", "description": "Tipo um tempo para jogar um pouco online com os amigos, principalmente no ps5."},
+                    "en": {"title": "Videogames", "description": "Like time to play a little online with friends, especially on the PS5."}
+
+                }
+            }
+        ]
+
+    }
+}

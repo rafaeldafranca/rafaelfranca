@@ -1,0 +1,50 @@
+{
+    "locales": {
+        "pt": {
+            "title": "<span class='text-primary'>Experiência</span> educacional",
+            "description": "Minha trajetória acadêmica e realizações."
+        },
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "My academic trajectory and accomplishments."
+        }
+    },
+    "items": [
+        {
+            "id": "online_estacio",
+            "place": "@link{places.estacio}",
+            "period": [
+                "2015/01",
+                "2018/03"
+            ],
+            "locales": {
+                "pt": {
+                    "title": "Estácio",
+                    "description": "Fiz minha faculdade em análise e desenvolvimento de sistemas"
+                },
+                "en": {
+                    "title": "Estácio",
+                    "description": "I studied systems analysis and development at university."
+                }
+            }
+        },
+        {
+            "id": "online_pucminas",
+            "place": "@link{places.pucminas}",
+            "period": [
+                "2020/01",
+                "2022/03"
+            ],
+            "locales": {
+                "pt": {
+                    "title": "PUC Minas",
+                    "description": "Completei a minha pós graduação em Análise de sistemas distribuídos."
+                },
+                "en": {
+                    "title": "PUC Minas",
+                    "description": "I completed my postgraduate degree in Distributed Systems Analysis."
+                }
+            }
+        }
+    ]
+}

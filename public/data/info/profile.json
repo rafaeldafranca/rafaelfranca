@@ -1,0 +1,73 @@
+{
+    "name": "Rafael França",
+    "profilePictureUrl": "https://1.gravatar.com/avatar/3add5882e36bddcbb2bb194b309f621b?size=256",
+    "locales": {
+        "en": {
+            "credits": "rafaelfranca.com",
+            "role": ".net developer C#"
+        },
+
+        "pt": {
+            "credits": "rafaelfranca.com",
+            "role": "desenvolvedor .net C#"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Rio de Janeiro / RJ",
+            "valueShort": "Rio de Janeiro",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "rafaelfranca@live.com",
+            "valueShort": "rafaelfranca@live.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:rafaelfranca@live.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Rafael França",
+            "valueShort": "França",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/rafaeldafranca"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@rafaeldafranca",
+            "valueShort": "@rafaeldafranca",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/rafaeldafranca"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@rafaeldafranca",
+            "valueShort": "@rafaeldafranca",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/rafaeldafranca"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@rafaeldafranca",
+            "valueShort": "@rafaeldafranca",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/rafaelfranca/"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+55 (21) 99470-7111",
+            "valueShort": "(21) 99470-7111",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:5521994707111"
+        }
+    }
+}
