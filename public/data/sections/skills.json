@@ -120,7 +120,7 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-html5",
-                "value": 70,
+                "value": 100,
                 "locales": {
                     "pt": {"title": "HTML 5", "description": "Experiência: 10 anos"},
                     "en": {"title": "HTML 5", "description": "Experience Time: 10 years"}
@@ -130,7 +130,7 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-css3-alt",
-                "value": 40,
+                "value": 60,
                 "locales": {
                     "pt": {"title": "CSS 3", "description": "Experiência: 5 anos"},
                     "en": {"title": "CSS 3", "description": "Experience Time: 5 years"}
@@ -140,10 +140,10 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-sass",
-                "value": 20,
+                "value": 30,
                 "locales": {
-                    "pt": {"title": "Sass/Less", "description": "Experiência: 1 ano"},
-                    "en": {"title": "Sass/Less", "description": "Experience Time: 1 year"}
+                    "pt": {"title": "Sass/Less", "description": ""},
+                    "en": {"title": "Sass/Less", "description": ""}
                 }
             },
 
@@ -162,8 +162,8 @@
                 "faIcon": "fab fa-vuejs",
                 "value": 60,
                 "locales": {
-                    "pt": {"title": "Vue 3", "description": "Experiência: 1 anos"},
-                    "en": {"title": "Vue 3", "description": "Experience: 1 years"}
+                    "pt": {"title": "Vue 3", "description": ""},
+                    "en": {"title": "Vue 3", "description": ""}
 
                 }
             },
@@ -173,8 +173,8 @@
                 "faIcon": "fab fa-vuejs",
                 "value": 60,
                 "locales": {
-                    "pt": {"title": "Angular", "description": "Experiência: 2 anos"},
-                    "en": {"title": "Angular", "description": "Experience: 2 years"}
+                    "pt": {"title": "Angular", "description": ""},
+                    "en": {"title": "Angular", "description": ""}
 
                 }
             }
