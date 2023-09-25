@@ -142,8 +142,8 @@
                 "faIcon": "fas fa-gamepad",
                 "value": null,
                 "locales": {
-                    "pt": {"title": "Videogames", "description": "Tipo um tempo para jogar um pouco online com os amigos, principalmente no ps5."},
-                    "en": {"title": "Videogames", "description": "Like time to play a little online with friends, especially on the PS5."}
+                    "pt": {"title": "Videogames", "description": "Tiro um tempo para jogar um pouco online com os amigos, principalmente no ps5."},
+                    "en": {"title": "Videogames", "description": "I take time to play a little online with friends, especially on the PS5."}
 
                 }
             }
