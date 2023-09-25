@@ -33,11 +33,11 @@
             "locales": {
                 "pt": {
                     "title": "Analista de sistemas senior",
-                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                    "description": "C#, MVC, Api Restfull, Javascript, Jquery, Sql Server, NetCore"
                 },
                 "en": {
                     "title": "Senior systems analyst",
-                    "description": "C#, MVC, Webforms, Api Restfull, Devops, Javascript, Jquery, Sql Server, MongoDB, gRPC, NetCore"
+                    "description": "C#, MVC, Api Restfull, Javascript, Jquery, Sql Server, NetCore"
                 }
             }
         },
