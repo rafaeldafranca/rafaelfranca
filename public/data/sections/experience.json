@@ -77,12 +77,12 @@
             "period": ["2006/06", "2009/07"],
             "locales": {
                 "pt": {
-                    "title": "Consultor da ASJBWM alocado no cliente Bureau Veritas.",
-                    "description": "Desenvolvimento em VB.NET com Sql Server / Access / XML"
+                    "title": " Bureau Veritas ( Consultor da ASJBWM )",
+                    "description": "Alocado pela ASJBWM, era consultor VB.NET com Sql Server / Access"
                 },
                 "en": {
-                    "title": "ASJBWM consultant allocated to the client Bureau Veritas.",
-                    "description": "Development in VB.NET with Sql Server / Access / XML"
+                    "title": "Bureau Veritas ( ASJBWM Consultant )",
+                    "description": "Allocated by ASJBWM, I was a VB.NET consultant with Sql Server / Access"
                 }
             }
         }
