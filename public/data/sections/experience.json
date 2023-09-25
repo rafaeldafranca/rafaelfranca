@@ -77,11 +77,11 @@
             "period": ["2006/06", "2009/07"],
             "locales": {
                 "pt": {
-                    "title": " Bureau Veritas ( Consultor da ASJBWM )",
+                    "title": "Consultor da ASJBWM",
                     "description": "Alocado pela ASJBWM, era consultor VB.NET com Sql Server / Access"
                 },
                 "en": {
-                    "title": "Bureau Veritas ( ASJBWM Consultant )",
+                    "title": "ASJBWM Consultant",
                     "description": "Allocated by ASJBWM, I was a VB.NET consultant with Sql Server / Access"
                 }
             }
