@@ -79,7 +79,7 @@
         }
     },
     "infnet": {
-        "logoUrl": null,
+        "logoUrl": "null" ,
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "pt": {"name": "Infnet"},
@@ -87,11 +87,19 @@
         }
     },
     "alura": {
-        "logoUrl": null,
+        "logoUrl": "null",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "pt": {"name": "alura"},
             "en": {"name": "alura"}
+        }
+    },
+    "rocketseat": {
+        "logoUrl":"null" ,
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "pt": {"name": "Rocketseat"},
+            "en": {"name": "Rocketseat"}
         }
     }
 }

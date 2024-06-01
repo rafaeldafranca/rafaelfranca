@@ -184,6 +184,22 @@
                         "description": ""
                     }
                 }
+            },
+            {
+                "id": "rocketseat_figma",
+                "place": "@link{places.rocketseat}",
+                "date": "2024/06",
+                "href": "https://app.rocketseat.com.br/certificates/fcce999b-d665-4474-918e-0242770c135b",
+                "locales": {
+                    "pt": {
+                        "title": "Figma para devs",
+                        "description": "Figma para dev"
+                    },
+                    "en": {
+                        "title": "Figma for devs",
+                        "description": "Figma for developers"
+                    }
+                }
             }
         ],
         "certifications": [
@@ -204,7 +220,7 @@
                 }
             },
             {
-                "id": "DEPC_cert",
+                "id": "Scrum_certprof",
                 "place": "@link{places.certiprof}",
                 "date": "2020/06",
                 "href": "https://www.credly.com/badges/a9c3335f-566f-4f38-8b3d-3f77ade0bb38",
@@ -220,7 +236,7 @@
                 }
             },
             {
-                "id": "DEPC_cert",
+                "id": "DevOps_certprof",
                 "place": "@link{places.certiprof}",
                 "date": "2020/07",
                 "href": "https://certiprof.com/",
